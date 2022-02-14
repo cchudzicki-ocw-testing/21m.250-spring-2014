@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Beethoven Concert
+type: CourseSection
 uid: df6177af-1eae-ee1d-ce1d-4c398d186695
 ---
 

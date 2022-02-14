@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21m-250-beethoven-to-mahler-spring-2014/1695053afef16cb683443b6cf1731a1a_97Hk_vH2qw0.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: 1695053a-fef1-6cb6-8344-3b6cf1731a1a
 ---

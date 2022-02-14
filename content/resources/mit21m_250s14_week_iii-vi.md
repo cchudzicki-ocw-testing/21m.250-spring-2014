@@ -4,8 +4,13 @@ description: "This is a resource file that contains information regarding weeks 
   \ romantic lieder and characterst\xFCcke."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21m-250-beethoven-to-mahler-spring-2014/81ffd083e78d3cade360c8ebdcdeb748_MIT21M_250S14_Week_III-VI.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Weeks III-VI: Romantic Lieder and Characterst\xFCcke - 21M.250 Beethoven to\
   \ Mahler Spring 2014"
+type: OCWFile
 uid: 81ffd083-e78d-3cad-e360-c8ebdcdeb748
 ---

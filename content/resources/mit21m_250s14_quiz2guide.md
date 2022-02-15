@@ -5,6 +5,7 @@ description: This is a resource file that contains information regarding exam 2 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21m-250-beethoven-to-mahler-spring-2014/6c19dadce87b388fd58927e91aea85d6_MIT21M_250S14_Quiz2Guide.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document

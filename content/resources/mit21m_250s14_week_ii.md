@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Week II: Beethoven and Rossini; Bellini; Field; Schubert - 21M.250 Beethoven
   to Mahler Spring 2014'
-type: OCWFile
 uid: 5f5dab99-5fb7-2c10-b175-8be850627ca3
 ---

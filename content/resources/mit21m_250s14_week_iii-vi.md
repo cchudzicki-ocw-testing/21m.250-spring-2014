@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: "Weeks III-VI: Romantic Lieder and Characterst\xFCcke - 21M.250 Beethoven to\
   \ Mahler Spring 2014"
-type: OCWFile
 uid: 81ffd083-e78d-3cad-e360-c8ebdcdeb748
 ---

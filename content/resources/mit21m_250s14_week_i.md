@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Week I: Introduction and Beethoven - 21M.250 Beethoven to Mahler Spring 2014'
-type: OCWFile
 uid: a4c26228-9d1b-b4c6-33e6-237a2ae1d959
 ---

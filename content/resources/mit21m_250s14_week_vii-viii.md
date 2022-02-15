@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Weeks VII-VIII: Wagner and Verdi (Wagner) - 21M.250 Beethoven to Mahler Spring
   2014'
-type: OCWFile
 uid: e96fc716-0bf7-fb53-49fc-02efe0766434
 ---

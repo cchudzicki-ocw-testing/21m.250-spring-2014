@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Listening and Scores
-type: CourseSection
 uid: d41293da-8ebb-aa72-8f1f-4b32a0e39353
 ---
 

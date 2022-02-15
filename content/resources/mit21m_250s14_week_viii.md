@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Week VIII: Wagner and Verdi (Verdi) - 21M.250 Beethoven to Mahler Spring 2014'
-type: OCWFile
 uid: 43687ccd-a0d8-19f4-36e0-95ddcd926429
 ---

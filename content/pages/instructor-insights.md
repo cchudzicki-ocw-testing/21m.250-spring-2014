@@ -52,7 +52,7 @@ The students' grades were based on the following activities:
 Student Information
 -------------------
 
-![16 students took this course when it was offered in Spring 2014.]({{< resource_file c86b23cd-291a-39a7-2e9d-5790e7d500e8 >}})
+{{< resource c86b23cd-291a-39a7-2e9d-5790e7d500e8 >}}
 
 ### Breakdown by Year
 

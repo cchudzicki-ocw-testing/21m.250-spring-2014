@@ -22,7 +22,7 @@ Students should be able to identify, describe, and compare audio musical example
 
 ### Prerequisites
 
-[_21M.301 Harmony and Counterpoint I_](/courses/21m-301-harmony-and-counterpoint-i-spring-2005/) or permission of instructor. Basic score-reading ability is recommended.
+[_21M.301 Harmony and Counterpoint I_](/courses/21m-301-harmony-and-counterpoint-i-spring-2005) or permission of instructor. Basic score-reading ability is recommended.
 
 ### Requirements Satisfied
 

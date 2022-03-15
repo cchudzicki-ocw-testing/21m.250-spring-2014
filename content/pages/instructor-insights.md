@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -46,7 +47,9 @@ The students' grades were based on the following activities:
 
 ## Student Information
 
-{{< resource c86b23cd-291a-39a7-2e9d-5790e7d500e8 >}}
+### Enrollment
+
+16 students
 
 ### Breakdown by Year
 
@@ -66,10 +69,10 @@ Almost all the students in the class had studied a musical instrument previously
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-## In Class
+### In Class
 
 Met 2 times per week for 90 minutes per session; mandatory attendance.
 
-## Out of Class
+### Out of Class
 
 Reading assignments, listening assignments, score study, and written assignments. Occasional attendance at live music performances.

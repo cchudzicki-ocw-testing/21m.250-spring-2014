@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes exam guides and a selected list of audio examples.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

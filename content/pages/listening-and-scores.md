@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of required and optional materials for the
+  class including listening, videos, and scores.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Listening and Scores

@@ -6,6 +6,7 @@ file: /courses/21m-250-beethoven-to-mahler-spring-2014/5f5dab995fb72c10b1758be85
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
